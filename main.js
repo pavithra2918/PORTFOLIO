@@ -78,9 +78,7 @@ function initTypewriter() {
   const texts = [
     'FullStack Developer',
     'UI/UX Enthusiast',
-    'Java Programmer',
-    'Problem Solver',
-    'CS Engineer'
+    'Java Programmer'
   ];
   let ti = 0, ci = 0, deleting = false;
   const speed = { type: 80, delete: 45, pause: 1800 };
